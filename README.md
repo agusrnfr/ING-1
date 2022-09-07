@@ -14,3 +14,5 @@ Ejercicios de "Ingenieria de Software 1"
 * [**Ejercicio 1**](https://github.com/agusrnfr/ING-1/blob/main/PRACTICAS/PRACTICA_2/Punto1.pdf)
 * [**Ejercicio 2**](https://github.com/agusrnfr/ING-1/blob/main/PRACTICAS/PRACTICA_2/Punto2.pdf)
 * [**Ejercicio 3**](https://github.com/agusrnfr/ING-1/blob/main/PRACTICAS/PRACTICA_2/Punto3.pdf)
+* [**Ejercicio 4**](https://github.com/agusrnfr/ING-1/blob/main/PRACTICAS/PRACTICA_2/Punto4.pdf)
+* [**Ejercicio 5**](https://github.com/agusrnfr/ING-1/blob/main/PRACTICAS/PRACTICA_2/Punto5.pdf)
