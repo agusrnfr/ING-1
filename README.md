@@ -44,4 +44,22 @@ Ejercicios de "Ingenieria de Software 1"
 * [**Ejercicio 10**](https://github.com/agusrnfr/ING-1/tree/main/PRACTICAS/PRACTICA_3/Punto10)
 * [**Ejercicio 11**](https://github.com/agusrnfr/ING-1/tree/main/PRACTICAS/PRACTICA_3/Punto11)
 
+### **Práctica 4**
+*ENUNCIADOS PRÁCTICA 4* [↺](https://github.com/agusrnfr/ING-1/blob/main/PRACTICAS/PRACTICA_4/Practica-4-DTE.docx.pdf)  
 
+*EXPLICACIÓN PRÁCTICA 4* [↺](https://github.com/agusrnfr/ING-1/blob/main/PRACTICAS/PRACTICA_4/IS1-DTE-2022.pptx)
+* [**Ejercicio 1**](https://github.com/agusrnfr/ING-1/tree/main/PRACTICAS/PRACTICA_4/Punto1)
+* [**Ejercicio 2**](https://github.com/agusrnfr/ING-1/tree/main/PRACTICAS/PRACTICA_4/Punto2)
+* [**Ejercicio 3**](https://github.com/agusrnfr/ING-1/tree/main/PRACTICAS/PRACTICA_4/Punto3)
+* [**Ejercicio 4**](https://github.com/agusrnfr/ING-1/tree/main/PRACTICAS/PRACTICA_4/Punto4)
+
+<!-- 
+* [**Ejercicio 5**](https://github.com/agusrnfr/ING-1/tree/main/PRACTICAS/PRACTICA_4/Punto5)
+* [**Ejercicio 6**](https://github.com/agusrnfr/ING-1/tree/main/PRACTICAS/PRACTICA_4/Punto6)
+* [**Ejercicio 7**](https://github.com/agusrnfr/ING-1/tree/main/PRACTICAS/PRACTICA_4/Punto7)
+* [**Ejercicio 8**](https://github.com/agusrnfr/ING-1/tree/main/PRACTICAS/PRACTICA_4/Punto8)
+* [**Ejercicio 9**](https://github.com/agusrnfr/ING-1/tree/main/PRACTICAS/PRACTICA_4/Punto9)
+* [**Ejercicio 10**](https://github.com/agusrnfr/ING-1/tree/main/PRACTICAS/PRACTICA_4/Punto10)
+* [**Ejercicio 11**](https://github.com/agusrnfr/ING-1/tree/main/PRACTICAS/PRACTICA_4/Punto11)
+* [**Ejercicio 12**](https://github.com/agusrnfr/ING-1/tree/main/PRACTICAS/PRACTICA_4/Punto12)
+--> 
