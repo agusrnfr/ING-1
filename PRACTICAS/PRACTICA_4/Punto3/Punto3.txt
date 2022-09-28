@@ -1,0 +1,5 @@
+En la solucion 1 toma a la validacion de un numero como un estado y la finalizacion de 
+la validacion como un evento que provoca que se salga del estado.
+En la solucion 2 no se toma a la validacion de un numero como estado, si no que
+a penas se presiona el boton "aceptar", la validacion ocurre.
+Para mi, ambas soluciones son correctas. 
