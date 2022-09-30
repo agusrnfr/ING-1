@@ -54,9 +54,9 @@ Ejercicios de "Ingenieria de Software 1"
 * [**Ejercicio 4**](https://github.com/agusrnfr/ING-1/tree/main/PRACTICAS/PRACTICA_4/Punto4)
 * [**Ejercicio 5**](https://github.com/agusrnfr/ING-1/tree/main/PRACTICAS/PRACTICA_4/Punto5)
 * [**Ejercicio 6**](https://github.com/agusrnfr/ING-1/tree/main/PRACTICAS/PRACTICA_4/Punto6)
-<!-- 
 * [**Ejercicio 7**](https://github.com/agusrnfr/ING-1/tree/main/PRACTICAS/PRACTICA_4/Punto7)
 * [**Ejercicio 8**](https://github.com/agusrnfr/ING-1/tree/main/PRACTICAS/PRACTICA_4/Punto8)
+<!--
 * [**Ejercicio 9**](https://github.com/agusrnfr/ING-1/tree/main/PRACTICAS/PRACTICA_4/Punto9)
 * [**Ejercicio 10**](https://github.com/agusrnfr/ING-1/tree/main/PRACTICAS/PRACTICA_4/Punto10)
 * [**Ejercicio 11**](https://github.com/agusrnfr/ING-1/tree/main/PRACTICAS/PRACTICA_4/Punto11)
