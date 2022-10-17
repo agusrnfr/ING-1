@@ -48,6 +48,7 @@ Ejercicios de "Ingenieria de Software 1"
 *ENUNCIADOS PRÁCTICA 4* [↺](https://github.com/agusrnfr/ING-1/blob/main/PRACTICAS/PRACTICA_4/Practica-4-DTE.docx.pdf)  
 
 *EXPLICACIÓN PRÁCTICA 4* [↺](https://github.com/agusrnfr/ING-1/blob/main/PRACTICAS/PRACTICA_4/IS1-DTE-2022.pptx)
+
 * [**Ejercicio 1**](https://github.com/agusrnfr/ING-1/tree/main/PRACTICAS/PRACTICA_4/Punto1)
 * [**Ejercicio 2**](https://github.com/agusrnfr/ING-1/tree/main/PRACTICAS/PRACTICA_4/Punto2)
 * [**Ejercicio 3**](https://github.com/agusrnfr/ING-1/tree/main/PRACTICAS/PRACTICA_4/Punto3)
@@ -60,6 +61,8 @@ Ejercicios de "Ingenieria de Software 1"
 * [**Ejercicio 10**](https://github.com/agusrnfr/ING-1/tree/main/PRACTICAS/PRACTICA_4/Punto10)
 * [**Ejercicio 11**](https://github.com/agusrnfr/ING-1/tree/main/PRACTICAS/PRACTICA_4/Punto11)
 * [**Ejercicio 12**](https://github.com/agusrnfr/ING-1/tree/main/PRACTICAS/PRACTICA_4/Punto12)
+
+*LAS VERIFICACIONES Y VALIDACIONES SON INSTANTANEAS, NO HARIA FALTA HACER UN ESTADO*
 
 ### **Práctica 5**
 *ENUNCIADOS PRÁCTICA 5* [↺]()  
