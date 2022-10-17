@@ -60,3 +60,23 @@ Ejercicios de "Ingenieria de Software 1"
 * [**Ejercicio 10**](https://github.com/agusrnfr/ING-1/tree/main/PRACTICAS/PRACTICA_4/Punto10)
 * [**Ejercicio 11**](https://github.com/agusrnfr/ING-1/tree/main/PRACTICAS/PRACTICA_4/Punto11)
 * [**Ejercicio 12**](https://github.com/agusrnfr/ING-1/tree/main/PRACTICAS/PRACTICA_4/Punto12)
+
+### **Práctica 5**
+*ENUNCIADOS PRÁCTICA 5* [↺]()  
+
+*EXPLICACIÓN PRÁCTICA 5* [↺]()
+* [**Ejercicio 1**](https://github.com/agusrnfr/ING-1/tree/main/PRACTICAS/PRACTICA_5/Punto1)
+* [**Ejercicio 2**](https://github.com/agusrnfr/ING-1/tree/main/PRACTICAS/PRACTICA_5/Punto2)
+* [**Ejercicio 3**](https://github.com/agusrnfr/ING-1/tree/main/PRACTICAS/PRACTICA_5/Punto3)
+* [**Ejercicio 4**](https://github.com/agusrnfr/ING-1/tree/main/PRACTICAS/PRACTICA_5/Punto4)
+* [**Ejercicio 5**](https://github.com/agusrnfr/ING-1/tree/main/PRACTICAS/PRACTICA_5/Punto5)
+* [**Ejercicio 6**](https://github.com/agusrnfr/ING-1/tree/main/PRACTICAS/PRACTICA_5/Punto6)
+* [**Ejercicio 7**](https://github.com/agusrnfr/ING-1/tree/main/PRACTICAS/PRACTICA_5/Punto7)
+* [**Ejercicio 8**](https://github.com/agusrnfr/ING-1/tree/main/PRACTICAS/PRACTICA_5/Punto8)
+* [**Ejercicio 9**](https://github.com/agusrnfr/ING-1/tree/main/PRACTICAS/PRACTICA_5/Punto9)
+* [**Ejercicio 10**](https://github.com/agusrnfr/ING-1/tree/main/PRACTICAS/PRACTICA_5/Punto10)
+* [**Ejercicio 11**](https://github.com/agusrnfr/ING-1/tree/main/PRACTICAS/PRACTICA_5/Punto11)
+* [**Ejercicio 12**](https://github.com/agusrnfr/ING-1/tree/main/PRACTICAS/PRACTICA_5/Punto12)
+* [**Ejercicio 13**](https://github.com/agusrnfr/ING-1/tree/main/PRACTICAS/PRACTICA_5/Punto13)
+* [**Ejercicio 14**](https://github.com/agusrnfr/ING-1/tree/main/PRACTICAS/PRACTICA_5/Punto14)
+* [**Ejercicio 15**](https://github.com/agusrnfr/ING-1/tree/main/PRACTICAS/PRACTICA_5/Punto15)
