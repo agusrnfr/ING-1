@@ -80,8 +80,8 @@ Ejercicios de "Ingenieria de Software 1"
 * [**Ejercicio 10**](https://github.com/agusrnfr/ING-1/tree/main/PRACTICAS/PRACTICA_5/Punto10)
 * [**Ejercicio 11**](https://github.com/agusrnfr/ING-1/tree/main/PRACTICAS/PRACTICA_5/Punto11)
 * [**Ejercicio 12**](https://github.com/agusrnfr/ING-1/tree/main/PRACTICAS/PRACTICA_5/Punto12)
-* [**Ejercicio 13**](https://github.com/agusrnfr/ING-1/tree/main/PRACTICAS/PRACTICA_5/Punto13)
-* [**Ejercicio 14**](https://github.com/agusrnfr/ING-1/tree/main/PRACTICAS/PRACTICA_5/Punto14)
-* [**Ejercicio 15**](https://github.com/agusrnfr/ING-1/tree/main/PRACTICAS/PRACTICA_5/Punto15)
+* [**Ejercicio 13**](https://github.com/agusrnfr/ING-1/blob/main/PRACTICAS/PRACTICA_5/Punto13.pdf)
+* [**Ejercicio 14**](https://github.com/agusrnfr/ING-1/blob/main/PRACTICAS/PRACTICA_5/Punto14.pdf)
+* [**Ejercicio 15**](https://github.com/agusrnfr/ING-1/blob/main/PRACTICAS/PRACTICA_5/Punto15.pdf)
 
 *HAY EJERCICIOS DONDE LA TRANSICION FINAL ME QUEDO CON LUGAR DE SALIDA Y ESO NO SE PUEDE*
