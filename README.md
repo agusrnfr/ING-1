@@ -65,9 +65,9 @@ Ejercicios de "Ingenieria de Software 1"
 *LAS VERIFICACIONES Y VALIDACIONES SON INSTANTANEAS, NO HARIA FALTA HACER UN ESTADO*
 
 ### **Práctica 5**
-*ENUNCIADOS PRÁCTICA 5* [↺]()  
+*ENUNCIADOS PRÁCTICA 5* [↺](https://github.com/agusrnfr/ING-1/blob/main/PRACTICAS/PRACTICA_5/Pr%C3%A1ctica.pdf)  
 
-*EXPLICACIÓN PRÁCTICA 5* [↺]()
+*EXPLICACIÓN PRÁCTICA 5* [↺](https://github.com/agusrnfr/ING-1/blob/main/PRACTICAS/PRACTICA_5/Explicaci%C3%B3n.pptx)
 * [**Ejercicio 1**](https://github.com/agusrnfr/ING-1/tree/main/PRACTICAS/PRACTICA_5/Punto1)
 * [**Ejercicio 2**](https://github.com/agusrnfr/ING-1/tree/main/PRACTICAS/PRACTICA_5/Punto2)
 * [**Ejercicio 3**](https://github.com/agusrnfr/ING-1/tree/main/PRACTICAS/PRACTICA_5/Punto3)
