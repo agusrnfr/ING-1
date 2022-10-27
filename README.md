@@ -85,3 +85,9 @@ Ejercicios de "Ingenieria de Software 1"
 * [**Ejercicio 15**](https://github.com/agusrnfr/ING-1/blob/main/PRACTICAS/PRACTICA_5/Punto15.pdf)
 
 *HAY EJERCICIOS DONDE LA TRANSICION FINAL ME QUEDO CON LUGAR DE SALIDA Y ESO NO SE PUEDE*
+
+### **Práctica 6**
+*ENUNCIADOS PRÁCTICA 6* [↺](https://github.com/agusrnfr/ING-1/blob/main/PRACTICAS/PRACTICA_6/Pr%C3%A1ctica.pdf)  
+
+*EXPLICACIÓN PRÁCTICA 6* [↺](https://github.com/agusrnfr/ING-1/blob/main/PRACTICAS/PRACTICA_6/Explicaci%C3%B3n.pdf)
+* [**Resolucion**](https://github.com/agusrnfr/ING-1/blob/main/PRACTICAS/PRACTICA_6/Practica6.pdf)
